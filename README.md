@@ -31,8 +31,9 @@ You can open the `index.html` file directly in your browser to see the design.
 └── styles.css
 
 ## 📸 Screenshot
-<img width="958" height="1032" alt="image" src="https://github.com/user-attachments/assets/f9f6496d-4765-40fe-b352-61e9bd71acbc" />
-<img width="958" height="1032" alt="image" src="https://github.com/user-attachments/assets/f54f9a0e-2ae8-4b5c-adeb-ca3349832ca5" />
+<img width="939" height="920" alt="image" src="https://github.com/user-attachments/assets/5a5a0eb0-63eb-4b90-9451-d454ade97531" />
+<img width="936" height="851" alt="image" src="https://github.com/user-attachments/assets/0a2896db-ddc9-4545-992c-a82de96861a6" />
+
 
 
 
